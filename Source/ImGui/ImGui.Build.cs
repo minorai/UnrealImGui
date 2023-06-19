@@ -54,6 +54,7 @@ public class ImGui : ModuleRules
 			new string[]
 			{
 				"Core",
+
 				"Projects"
 				// ... add other public dependencies that you statically link with here ...
 			}
@@ -64,6 +65,7 @@ public class ImGui : ModuleRules
 			new string[]
 			{
 				"CoreUObject",
+				"EnhancedInput",
 				"Engine",
 				"InputCore",
 				"Slate",
