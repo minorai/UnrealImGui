@@ -7,7 +7,7 @@
 #include <GameFramework/PlayerInput.h>
 #include <UObject/UObjectIterator.h>
 
-#include "EnhancedInput/Public/EnhancedPlayerInput.h"
+#include "EnhancedPlayerInput.h"
 
 
 namespace
